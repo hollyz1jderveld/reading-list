@@ -1,0 +1,24 @@
+/* @import "{{ minima }}"; */
+
+body {
+    color:#151515;
+    background-colour: #bdc7fc
+    /*background-color: #b0cfbc; /* Replace #ADD8E6 with your desired color code */
+    font-family: 'EBGaramond';
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+h2 {
+    color: #ff6a80; /* Pastel Pink */
+    text-align: center;
+    font-family: 'Lucida Console';
+}
+
+a:link {
+    color:#ff4460; 
+}
+
+a:visited {
+    color:blueviolet
+}
