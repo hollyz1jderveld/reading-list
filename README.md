@@ -26,3 +26,9 @@
 
 **Life of the Party, Olivia Gatwood**
 
+**Dune, Frank Herbert**
+
+**A Little Life, Hanya Yanigahara**
+
+**Family Lexicon, Natalia Ginzburg**
+
